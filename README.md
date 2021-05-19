@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Leonids Gatsby starter
 
-You can use the [editor on GitHub](https://github.com/Tiger-NG/tiger-ng.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**[Leonids](http://renyuanz.github.io/leonids)** is a clean, fixed sidebar Gatsby starter which is perfect for powering your GitHub hosted blog.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Preview
 
-### Markdown
+![theme-preview](./content/assets/theme-preview.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What is Leonids?
 
-```markdown
-Syntax highlighted code block
+A blazing fast static blog theme built on Gatsby.js
 
-# Header 1
-## Header 2
-### Header 3
+![lighthouse-performance](./content/assets/lighthouse-performance.png)
 
-- Bulleted
-- List
+- Responsive templates. Looking good on any viewport.
+- Fixed sidebar to provide a good navigation experience while reading.
+- Light/Dark mode.
+- **And** the Leonids (/ˈliːənɪdz/ lee-ə-nidz) are a prolific meteor shower associated with the comet [Tempel-Tuttle](https://en.wikipedia.org/wiki/55P/Tempel%E2%80%93Tuttle).
 
-1. Numbered
-2. List
+See a [demo](http://renyuanz.github.io/leonids/) hosted on GitHub pages.
 
-**Bold** and _Italic_ and `Code` text
+## Getting Started (Recommended)
 
-[Link](url) and ![Image](src)
+### Vercel.com deploy button
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Frenyuanz%2Fleonids)
+
+### Netlify CMS deploy button
+
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/renyuanz/leonids&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+
+## Local development setup
+
+```
+gatsby new my-blog https://github.com/renyuanz/leonids
+cd my-blog
+gatsby develop
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Check out your awesome blog at `http://localhost:8000` and Cheers!
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tiger-NG/tiger-ng.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Legacy Jekyll theme
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This project was a Jekyll blog theme, which is archived and not maintained any more. You can still find the source code in [leonids-jekyll](https://github.com/renyuanz/leonids/tree/leonids-jekyll) branch.
