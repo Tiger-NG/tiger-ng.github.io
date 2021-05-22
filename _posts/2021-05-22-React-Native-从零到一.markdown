@@ -8,4 +8,4 @@ fig-caption: # Add figcaption (optional)
 tags: [web, ios, android, Hybrid]
 ---
 
-# React Native 从零到一
+# 为什么要用React Native
