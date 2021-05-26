@@ -17,3 +17,13 @@ tags: [web, ios, android, Hybrid]
 * 开发环境搭建
 * 第一个React Native应用
 * 使用模拟器、真机进行应用调试
+
+# React Native是什么
+简单来说，React Native是一个使用React开发移动端应用的开发框架。React Native利用js调用iOS和Android端的原生组件，开发出的APP，具有接近原生应用的交互体验。
+
+# 开发环境搭建
+React Native官方中文教程中有保姆级的[环境搭建教程](https://www.react-native.cn/docs/environment-setup)，包含macOS、Windows、Linux三个平台，大家跟着一步一步做就可以搭建成功。
+
+## 注意事项
+* 官方教程中背景标黄的注意事项__非常重要！__往往搭建不成功的案例都是忽略了注意事项中的内容。
+* 能科学上网的同学，在搭建过程中可以减少很多不必要的坑。
