@@ -25,5 +25,5 @@ tags: [web, ios, android, Hybrid]
 React Native官方中文教程中有保姆级的[环境搭建教程](https://www.react-native.cn/docs/environment-setup)，包含macOS、Windows、Linux三个平台，大家跟着一步一步做就可以搭建成功。
 
 ## 注意事项
-* 官方教程中背景标黄的注意事项__非常重要！__往往搭建不成功的案例都是忽略了注意事项中的内容。
+* 官方教程中背景标黄的注意事项**非常重要！**往往搭建不成功的案例都是忽略了注意事项中的内容。
 * 能科学上网的同学，在搭建过程中可以减少很多不必要的坑。
